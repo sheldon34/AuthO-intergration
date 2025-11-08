@@ -1,0 +1,8 @@
+server:
+  port: 3000
+
+okta:
+  oauth2:
+    issuer: https://dev-4g28t22j7fb43hp7.us.auth0.com/
+    client-id: 5jEC2d6rr4OmjDTjpouq4ihB4mh7LkLk
+    client-secret: ti2nvOmd_y_TQlfCSUTFab6hJGa6Enmgb5OgI4uv0QnWg_zZBBsMdRpEXP4LrHPk
